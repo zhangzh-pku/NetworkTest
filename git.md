@@ -9,3 +9,8 @@ git push -u origin main
 
 ## 第二次修改：ssh
 增加了ssh密钥
+
+不知道是否有用
+
+### 第三次修改：添加了lab0子模块
+git submodule add git@github.com:N2Sys-EDU/lab0-introduction-SJZHZ.git lab0-introduction-SJZHZ
