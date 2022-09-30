@@ -14,3 +14,6 @@ git push -u origin main
 
 ### 第三次修改：添加了lab0子模块
 git submodule add git@github.com:N2Sys-EDU/lab0-introduction-SJZHZ.git lab0-introduction-SJZHZ
+
+### 第四次修改：添加了lab1子模块
+git submodule add git@github.com:N2Sys-EDU/lab1-myftp-SJZHZ.git
