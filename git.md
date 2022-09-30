@@ -1,5 +1,5 @@
 # git学习
-## 第一次修改：修改本文档
+## 第一次修改：建立本文档
 ```bash
 git add .
 git commit -m "first commit"
@@ -15,3 +15,4 @@ git submodule add git@github.com:N2Sys-EDU/lab0-introduction-SJZHZ.git
 ```bash
 git submodule add git@github.com:N2Sys-EDU/lab1-myftp-SJZHZ.git
 ```
+### 第五次修改：补充了README.md

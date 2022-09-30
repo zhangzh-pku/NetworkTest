@@ -1,9 +1,6 @@
 [submodule "lab0-introduction-SJZHZ"]
 	path = lab0-introduction-SJZHZ
 	url = git@github.com:N2Sys-EDU/lab0-introduction-SJZHZ.git
-[submodule "lab1=myftp-SJZHZ"]
-	path = lab1=myftp-SJZHZ
-	url = git@github.com:N2Sys-EDU/lab1-myftp-SJZHZ.git
 [submodule "lab1-myftp-SJZHZ"]
 	path = lab1-myftp-SJZHZ
 	url = git@github.com:N2Sys-EDU/lab1-myftp-SJZHZ.git
