@@ -1,8 +1,8 @@
 # NetworkTest
 ## 项目介绍
 ```txt
-PKU 2022秋 计算机网络(HQ) lab存档
-SJZHZ 1900017702 ZY
+PKU 2022秋 计算机网络 黄群
+by SJZHZ
 ```
 ## 文件说明
 说明文档
